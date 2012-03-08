@@ -30,9 +30,9 @@ http://iheartpy.com
 
 ### Creating Lessons
 * [Fork this repo](https://github.com/creatorrr/IHeartPy-lessons)
-* Learn Python. ( If you don't know alredy. :P )
+* Learn Python. ( If you don't know already. :P )
 * Take a look at _lesson1.aiml_ (It's pretty simple, actually.)
-* See how it works at [IHeartPy!] (http://iheartpy.com)
+* See how it works at [IHeartPy!](http://iheartpy.com)
 * Fool around, share your insights and try things.
 * That's it (Yay!)
 
