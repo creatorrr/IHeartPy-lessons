@@ -29,7 +29,8 @@ http://iheartpy.com
 * Open up _self-test.aiml_ for a shitty example.
 
 ### Creating Lessons
-* Learn Python.
+* [Fork this repo](https://github.com/creatorrr/IHeartPy-lessons)
+* Learn Python. ( If you don't know alredy. :P )
 * Take a look at _lesson1.aiml_ (It's pretty simple, actually.)
 * See how it works at [IHeartPy!] (http://iheartpy.com)
 * Fool around, share your insights and try things.
